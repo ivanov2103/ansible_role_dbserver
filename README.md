@@ -1,3 +1,5 @@
+![Build Status](https://api.travis-ci.org/ivanov2103/ansible_role_dbserver.png)  
+
 Role Name
 =========
 
