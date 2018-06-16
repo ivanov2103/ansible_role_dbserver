@@ -16,5 +16,5 @@
     mongo_bind_ip: 0.0.0.0
 
   roles:
-    - db
+    - { role: db-role-example }
 
