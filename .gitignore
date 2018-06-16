@@ -16,4 +16,8 @@ vault.key
 .molecule
 .cache
 .pytest_cache
+*.tar
+*.pub
+credentials.json
+google_compute_engine
 
